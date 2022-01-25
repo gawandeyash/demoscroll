@@ -1,15 +1,15 @@
 //Variables to fetch the data when the window loads
 let start = 0;
-let end = 30;
+let end = 20;
 
 //function which returns url after appending the start and end
 function getUrl()
 {
-    const url = `http://localhost:3000/posts?_start=`+start+`&_end=`+end;
+    const url = `https://infinitescrolldb.herokuapp.com/posts?_start=`+start+`&_end=`+end;
 
     //incrementin start and end for the next fetch API call
-    start += 30;
-    end += 30;
+    start += 20;
+    end += 20;
 
     return url;
 }

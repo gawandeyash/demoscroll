@@ -1,0 +1,38 @@
+.team{
+    color: whitesmoke;
+    background-color: black;
+    font-family:  'Lobster Two', cursive;
+    font-style: italic;
+    text-align: center;
+    /* position: fixed; */
+    font-size:xx-large;
+    width : 100%;
+    
+}
+
+p{
+    color: brown;
+    /* background-color: brown; */
+    font-family:'Lobster Two', cursive;
+    font-style: italic;
+}
+
+h3{
+    color: blueviolet;
+    /* background-color: brown; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: bold;
+    padding: 25px;
+    margin: 25px 450px 75px 500px;
+    background-color: rgb(220, 230, 173);
+    text-align: center;
+}
+
+body{
+      /* background-color: grey; */
+      background-image: url(https://wallpaperaccess.com/full/3133075.jpg);
+       background-repeat: no-repeat;
+      background-attachment: fixed; 
+}
+
+

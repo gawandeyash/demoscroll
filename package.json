@@ -1,0 +1,22 @@
+{
+  "name": "infinite-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "config": "^3.3.7",
+    "daemon": "^1.1.0",
+    "dotenv": "^14.2.0",
+    "init": "^0.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://pnlv6s186/gitlab/anidil17/Team-Infinity-Infinite-Scrolling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
